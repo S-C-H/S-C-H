@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 📫 How to reach me: https://www.linkedin.com/in/sam-hambling/
+- 🪀 A game I made: https://skyclayhue.com/celebrity
+
 <!--
 **S-C-H/S-C-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
